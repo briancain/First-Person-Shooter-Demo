@@ -1,0 +1,37 @@
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\heightmap.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\Grass.xnb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\BookCodeWin.pdb
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\BookCodeWin.exe
+C:\Documents and Settings\riemer\My Documents\Visual Studio 2008\XNA 3.0 Recipes\Chapter05\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\BookCodeWin.pdb
+C:\Users\Brian Cain\Documents\CIS 490\XNA 3.0 Programming Recipies\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\heightmap.xnb
+C:\Users\Brian Cain\Documents\CIS 490\XNA 3.0 Programming Recipies\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\Grass.xnb
+C:\Users\Brian Cain\Documents\CIS 490\XNA 3.0 Programming Recipies\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\BookCodeWin.exe
+C:\Users\Brian Cain\Documents\CIS 490\XNA 3.0 Programming Recipies\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\BookCodeWin.pdb
+C:\Users\Brian Cain\Documents\CIS 490\XNA 3.0 Programming Recipies\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian Cain\Documents\CIS 490\XNA 3.0 Programming Recipies\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian Cain\Documents\CIS 490\XNA 3.0 Programming Recipies\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\BookCodeWin.exe
+C:\Users\Brian Cain\Documents\CIS 490\XNA 3.0 Programming Recipies\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\BookCodeWin.pdb
+C:\Users\Brian Cain\Documents\CIS 490\XNA 3.0 Programming Recipies\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\Sand.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\Grass.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\Heightmap.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\Sand.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\BookCodeWin.exe
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\BookCodeWin.pdb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\BookCodeWin.exe
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\obj\x86\Debug\BookCodeWin.pdb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\DemoFont.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\weapon.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\hk_mp5n_0.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\HeightmapLG.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\crosshair1.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\dino.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\dbodytt_0.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\dbody_0.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\stencil.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\stencilHeader.xnb
+C:\Users\Brian Cain\Desktop\Final Project\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Debug\Content\laptopHeightMap.xnb

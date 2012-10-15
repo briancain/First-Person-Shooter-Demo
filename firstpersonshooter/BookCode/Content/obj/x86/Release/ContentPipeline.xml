@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Heightmap.jpg</Source>
+      <Name>Heightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\Heightmap.xnb</Output>
+      <Time>2010-05-06T13:26:35.5650188-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sand.dds</Source>
+      <Name>Sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\Sand.xnb</Output>
+      <Time>2010-02-15T22:51:14-06:00</Time>
+    </Item>
+    <Item>
+      <Source>HeightmapLG.jpg</Source>
+      <Name>HeightmapLG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\HeightmapLG.xnb</Output>
+      <Time>2010-05-06T13:12:35.7906899-05:00</Time>
+    </Item>
+    <Item>
+      <Source>crosshair1.png</Source>
+      <Name>crosshair1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\crosshair1.xnb</Output>
+      <Time>2007-12-04T01:12:40.1192157-06:00</Time>
+    </Item>
+    <Item>
+      <Source>stencil.bmp</Source>
+      <Name>stencil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\stencil.xnb</Output>
+      <Time>2010-03-29T11:10:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>stencilHeader.bmp</Source>
+      <Name>stencilHeader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\stencilHeader.xnb</Output>
+      <Time>2010-03-29T20:27:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>laptopHeightMap.jpg</Source>
+      <Name>laptopHeightMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\laptopHeightMap.xnb</Output>
+      <Time>2010-05-11T20:56:23.1690584-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DemoFont.spritefont</Source>
+      <Name>DemoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\DemoFont.xnb</Output>
+      <Time>2008-12-21T23:23:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>weapon.fbx</Source>
+      <Name>weapon</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\weapon.xnb</Output>
+      <Time>2008-12-21T23:23:34-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\weapon_0.xml</Key>
+        <Value>2010-05-31T18:52:25.3473758-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\hk_mp5n_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>dino.x</Source>
+      <Name>dino</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\dino.xnb</Output>
+      <Time>2007-12-10T15:05:48.236-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\dino_0.xml</Key>
+        <Value>2010-05-31T18:52:27.172579-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\dbodytt_0.xnb</Request>
+      <Request>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\dbody_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>weapon.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\weapon_0.xml</Output>
+      <Time>2008-12-21T23:23:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>hk_mp5n.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\hk_mp5n_0.xnb</Output>
+      <Time>2008-12-21T23:23:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>dino.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\dino_0.xml</Output>
+      <Time>2007-12-10T15:05:48.236-06:00</Time>
+    </Item>
+    <Item>
+      <Source>dbodytt.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\dbodytt_0.xnb</Output>
+      <Time>2007-12-10T15:07:50.235-06:00</Time>
+    </Item>
+    <Item>
+      <Source>dbody.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\dbody_0.xnb</Output>
+      <Time>2007-12-10T15:05:48.247-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Brian Cain\Documents\CIS 490\Final Project\Final\9_Bilinear_Interpolation\BookCode\BookCode\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T12:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T12:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T12:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T12:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T12:13:52-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-01-14T21:48:11.6537694-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
